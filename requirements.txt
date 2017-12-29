@@ -1,0 +1,5 @@
+name: python36
+channels:
+  - anaconda-fusion
+  - defaults
+prefix: /Users/dmitryfilipsky/anaconda/envs/python36
